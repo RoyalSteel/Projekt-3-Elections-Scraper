@@ -13,9 +13,7 @@ Instalace knihoven
 Knihovny použité v kódu jsou uložené v souboru ***requirements.txt.***
 
 Pro jejich instalaci použijte příkaz:
-<br>***pip install requests***
-<br>***pip install validators***
-<br>***pip install beautifulsoup4***
+<br>***pip install requirements.txt***
 
 Spuštění projektu
 -
@@ -27,7 +25,7 @@ Ukázka projektu
 -
 Výsledky pro okres Prostějov:
 <br>1. argument "https://www.volby.cz/pls/ps2017nss/ps32?xjazyk=CZ&xkraj=12&xnumnuts=7103"
-<br>2. argument 'výsledky-prostějov-2017.csv'
+<br>2. argument 'výsledky-prostějov-2017'
 
 Spuštění programu:
 <br>election-scraper.py "https://www.volby.cz/pls/ps2017nss/ps32?xjazyk=CZ&xkraj=12&xnumnuts=7103" výsledky-prostějov-2017
