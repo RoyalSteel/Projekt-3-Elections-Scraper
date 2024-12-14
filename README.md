@@ -38,7 +38,7 @@ Po ukončení programu:
 
 Výstup z programu Elections Scraper
 -
-Výstupem je soubor ***výsledky-prostějov-2017.csv*** který obsahuje data výsledků hlasování za územní celek Prostějov.
+Výstupem je soubor ***výsledky-prostějov-2017*** který obsahuje data výsledků hlasování za územní celek Prostějov.
 
 <br>Soubor ***výsledky-prostějov-2017.csv*** obsahuje tabulku která obsahuje sloupce s těmito parametry:
 <br>1. kód obce
