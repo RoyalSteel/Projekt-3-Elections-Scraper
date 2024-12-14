@@ -19,7 +19,7 @@ Spuštění projektu
 -
 Soubor ***election-scraper.py*** potřebuje ke své funkci dva argumenty:
 <br>První argument obsahuje [odkaz](https://www.volby.cz/pls/ps2017nss/ps32?xjazyk=CZ&xkraj=12&xnumnuts=7103), který územní celek chcete scrapovat v tomto případě ( územní celek Prostějov ).
-<br>Druhý argument obsahuje jméno výstupního souboru ( výsledky-prostějov-2017.csv )
+<br>Druhý argument obsahuje jméno výstupního souboru ( výsledky-prostějov-2017 )
 
 Ukázka projektu
 -
